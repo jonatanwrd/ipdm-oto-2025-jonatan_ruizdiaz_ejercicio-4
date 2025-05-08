@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ejercicio4</string>
+    <string name="my_name">Jonatan Ruiz Diaz</string>
+    <string name="my_title">Desarrollador de apps junior.</string>
+    <string name="my_phone_number">+595 971 159144</string>
+    <string name="my_email">jonatanwruizdiaz@gmail.com</string>
+    <string name="my_x">jonatanwrd</string>
+</resources>
